@@ -1,0 +1,7 @@
+"Swift":"Fast and silent"
+"Blunt":"Sharpless"
+"Divyanshu":"Sonu"
+"Dipanshu":"Monu"
+"Samarth":"Gunnu"
+"Akshat":"Krish"
+"Riyansh":"Yashu"
